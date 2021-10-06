@@ -66,5 +66,18 @@ ul {
   border: 8px dashed rgb(0, 34, 50);
   border-radius: 4px;
   padding: 15px;
-  margin: 70px;
+  margin: 100px;
 }
+
+dd {
+  color: darkolivegreen;
+  background-color: lightgreen;
+  width: 500px;
+  height: 50px;
+  border: 8px solid rgb(80, 44, 44);
+  border-radius: 2px;
+  padding: 25px;
+  margin: 50px;
+}
+
+
