@@ -94,30 +94,71 @@ pre {
 nav {
   color: crimson;
   background-color: cyan;
-  width: 600px;
-  border: 100px dashed lightsalmon;
+  width: 300px;
+  border: 60px dashed lightsalmon;
   border-radius: 50px;
-  padding: 100px;
-  margin: 120px;
+  padding: 60px;
+  margin: 90px;
 }
 
 footer {
   color: darkmagenta;
   background-color: darkorange;
-  height: 100px;
-  border: 50px solid gainsboro;
+  width: 50px;
+  border: 20px dashed gainsboro;
   border-radius: 15px;
-  padding: 50px;
-  margin: 20px;
+  padding: 70px;
+  margin: 15px;
 }
 
 address {
-  color: blue;
+  color: rgba(117, 57, 22, 0.966);
   background-color: darkseagreen;
   width: 400px ;
-  border: 40px dashed darkviolet;
-  border-radius: 20px;
+  border: 10px dotted rgb(23, 92, 17);
+  border-radius: 30px;
   padding: 25px;
+  margin: 100px;
+}
+
+aside {
+  color: rgb(15, 155, 101);
+  background-color: rgb(0, 255, 179);
+  height: 55px;
+  border: 20px dotted rgb(255, 217, 0);
+  border-radius: 15px;
+  padding: 25px;
+  margin: 200px;
+}
+
+header {
+  color: chartreuse;
+  background-color: darkgreen;
+  width: 120px;
+  border: 10px dotted burlywood;
+  border-radius: 60px;
+  padding: 20px;
+  margin: 15px;
+}
+
+figure {
+  color: rgb(54, 15, 90);
+  background-color: rgb(31, 182, 182);
+  height: 18px;
+  border: 3px solid fuchsia;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 50px;
+}
+
+div {
+  color: darkmagenta;
+  background-color: darkred;
+  width: 60px;
+  border: 6px dashed darksalmon;
+  border-radius: 40px;
+  padding: 15px;
   margin: 20px;
 }
+
 
