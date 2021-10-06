@@ -52,11 +52,19 @@ h2 {
 section {
   color: azure;
   background-color: black;
-  width: 50px;
-  border: darkred;
-  border-radius: 7px;
+  width: 500px;
+  border: 15px dotted darkred;
+  border-radius: 20px;
   padding: 15px;
   margin: 10px;
 }
 
-
+ul {
+  color: rgb(124, 47, 99);
+  background-color: rgb(207, 181, 114);
+  width: 70px;
+  border: 8px dashed rgb(0, 34, 50);
+  border-radius: 4px;
+  padding: 15px;
+  margin: 70px;
+}
