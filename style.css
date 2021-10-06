@@ -1,50 +1,50 @@
 #example-1 {
-    color: rgb(243, 255, 220);
-    background-color: crimson;
-    width: 200px;
-   /* height: 100px; */
-   border: 8px dotted rgb(43, 226, 226);
-   border-radius: 20px;
-   padding: 25px;
-   margin: 30px
+  color: rgb(243, 255, 220);
+  background-color: crimson;
+  width: 200px;
+  /* height: 100px; */
+  border: 8px dotted rgb(43, 226, 226);
+  border-radius: 20px;
+  padding: 25px;
+  margin: 30px;
 }
 
 h1 {
-color: chartreuse;
-background-color: cyan;
-width: 300px;
-border: 10px solid coral;
-border-radius: 10px;
-padding: 40px;
-margin: 30px;
+  color: chartreuse;
+  background-color: cyan;
+  width: 300px;
+  border: 10px solid coral;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 30px;
 }
 
 main {
-    color: rgb(141, 80, 255);
-    background-color: cornflowerblue;
-    width: 200px;
-    border: 8px dashed crimson;
-    border-radius: 5px;
-    padding: 10px;
-    margin: 20px;
+  color: rgb(141, 80, 255);
+  background-color: cornflowerblue;
+  width: 200px;
+  border: 8px dashed crimson;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
 }
 
 address {
-    color: darkgoldenrod;
-    background-color: darkgreen;
-    width: 300px;
-    border: 6px dotted burlywood;
-    border-radius: 2px;
-    padding: 20px;
-    margin: 10px;
+  color: darkgoldenrod;
+  background-color: darkgreen;
+  width: 300px;
+  border: 6px dotted burlywood;
+  border-radius: 2px;
+  padding: 20px;
+  margin: 10px;
 }
 
 h2 {
-    color: cadetblue;
-    background-color: darkolivegreen;
-    width: 100px;
-    border: 10px solid brown;
-    border-radius: 5px;
-    padding: 10px;
-    margin: 15px;
+  color: cadetblue;
+  background-color: darkolivegreen;
+  width: 100px;
+  border: 10px solid brown;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 15px;
 }
