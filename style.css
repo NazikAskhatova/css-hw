@@ -56,17 +56,8 @@ section {
   border: 15px dotted darkred;
   border-radius: 20px;
   padding: 15px;
-  margin: 10px;
-}
+  margin: 10px
 
-ul {
-  color: rgb(124, 47, 99);
-  background-color: rgb(207, 181, 114);
-  width: 70px;
-  border: 8px dashed rgb(0, 34, 50);
-  border-radius: 4px;
-  padding: 15px;
-  margin: 100px;
 }
 
 dd {
@@ -159,6 +150,93 @@ div {
   border-radius: 40px;
   padding: 15px;
   margin: 20px;
+}
+
+
+#style-1 {
+  color: black;
+  background-color: white;
+  border: 3px solid black;
+  padding: 15px 5px;
+  margin: 10px;
+  font-size: 18px;
+}
+
+#style-2 {
+  color: black;
+  background-color: rgb(230, 87, 87);
+  padding: 15px 5px;
+  border: 0px;
+  margin: 10px;
+}
+
+#style-3 {
+  color: red;
+  background-color: white;
+  border: 5px dashed red;
+  padding: 1px;
+  margin: 10px;
+  font-weight: bold;
+}
+
+#style-4 {
+color: darkblue;
+background-color: white;
+border: 5px dotted green;
+padding: 10px ;
+margin: 10px;
+font-weight: bold;
+}
+
+#style-5 {
+  color: coral;
+  background-color: white;
+  border-top: 8px solid green;
+  border-bottom: 8px solid rgb(235, 93, 117);
+  border-left: 8px solid lightgreen;
+  border-right: 8px solid black;
+  margin: 10px;
+}
+
+#style-6 {
+  color: white;
+  background-color: black;
+  border: 0px ;
+  padding-left: 25px;
+  padding-right: 4px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin: 10px;
+}
+
+#style-7 {
+  color: rgb(75, 70, 40);
+  background-color: rgb(235, 212, 140);
+  border: 3px solid rgb(75, 70, 40);
+  padding-right: 25px;
+  margin: 10px;
+}
+
+#style-8 {
+  color: white;
+  background-color: blue;
+  border: 0.8px dashed white;
+  padding: 0.6px 0.6px;
+  margin: 10px;
+}
+
+#style-9 {
+  color: white;
+  background-color: darkred;
+  border: 20px dotted rgb(231, 83, 67);
+  padding: 5px 25px;
+  margin: 10px;
+}
+
+#style-10 {
+  color: white;
+  background-color: rgb(201, 146, 44);
+  border: 10px dashed white;
 }
 
 
